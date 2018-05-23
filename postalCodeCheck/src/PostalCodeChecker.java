@@ -1,3 +1,6 @@
+'''this program checks to see if the format
+   of the potal code entered is correct'''
+
 import java.util.*;
 
 public class PostalCodeChecker {

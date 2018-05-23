@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class LTISampleTest {
+public class employeeHoursCheck {
     public static void main(String[] args) throws IOException {
         int counter=0;
         Scanner input = new Scanner(System.in);
