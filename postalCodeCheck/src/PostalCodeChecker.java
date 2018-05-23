@@ -1,5 +1,4 @@
-'''this program checks to see if the format
-   of the potal code entered is correct'''
+//this program checks to see if the format of the postal code entered is correct
 
 import java.util.*;
 
